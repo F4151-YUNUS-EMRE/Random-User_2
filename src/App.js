@@ -85,7 +85,6 @@ function App() {
   return (
     <main>
       <div className="block bcg-orange">
-        <img alt="cw" id="cw" />
       </div>
       <div className="block">
         <div className="container">
